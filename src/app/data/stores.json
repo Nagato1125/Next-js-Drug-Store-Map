@@ -1,0 +1,544 @@
+{
+  "stores": [
+    {
+      "zip_code": "929-1425",
+      "name": "\\u7460\\u7483\\u5149\\u85ac\\u5c40\\u5fd7\\u96c4\\u5e97",
+      "address": "\\u7fbd\\u548b\\u90e1\\u5b9d\\u9054\\u5fd7\\u6c34\\u753a\\u5b50\\u6d66\\u30cf7-1",
+      "phone_number": "0767-29-4877",
+      "fax": "0767-29-4876",
+      "is_available": "\\u25cb",
+      "location_lat": 36.8663578,
+      "location_lng": 136.7939632
+    },
+    {
+      "zip_code": "929-1311",
+      "name": "\\u62bc\\u6c34\\u7460\\u7483\\u5149\\u85ac\\u5c40",
+      "address": "\\u7fbd\\u548b\\u90e1\\u5b9d\\u9054\\u5fd7\\u6c34\\u753a\\u9580\\u524d150\\u756a\\u57309",
+      "phone_number": "0767-28-8585",
+      "fax": "0767-28-8586",
+      "is_available": "\\u25cb",
+      "location_lat": 36.815678,
+      "location_lng": 136.7642764
+    },
+    {
+      "zip_code": "929-1344",
+      "name": "\\u30a2\\u30eb\\u30d7\\u85ac\\u5c40\\u62bc\\u6c34\\u5e97",
+      "address": "\\u7fbd\\u548b\\u90e1\\u5b9d\\u9054\\u5fd7\\u6c34\\u753a\\u4eca\\u6d5c\\u30c8176\\u756a\\u57305",
+      "phone_number": "0767-28-5585",
+      "fax": "0767-28-5583",
+      "is_available": "\\u25cb",
+      "location_lat": 36.8246478,
+      "location_lng": 136.7571534
+    },
+    {
+      "zip_code": "925-0026",
+      "name": "\\u30af\\u30b9\\u30ea\\u306e\\u30a2\\u30aa\\u30ad\\u7fbd\\u548b\\u5e97\\u9752\\u6728\\u4e8c\\u968e\\u5802\\u85ac\\u5c40",
+      "address": "\\u7fbd\\u548b\\u5e02\\u77f3\\u91ce\\u753a\\u30c837",
+      "phone_number": "0767-22-3033",
+      "fax": "0767-22-3051",
+      "is_available": "\\u25cb",
+      "location_lat": 36.8957254,
+      "location_lng": 136.7940575
+    },
+    {
+      "zip_code": "925-0033",
+      "name": "\\u30d2\\u30e9\\u30d0\\u85ac\\u5c40",
+      "address": "\\u7fbd\\u548b\\u5e02\\u5ddd\\u539f\\u753a\\u30a8168-2",
+      "phone_number": "0767-22-7788",
+      "fax": "0767-22-0586",
+      "is_available": "\\u25cb",
+      "location_lat": 36.8969251,
+      "location_lng": 136.7807379
+    },
+    {
+      "zip_code": "925-0072",
+      "name": "\\u7460\\u7483\\u5149\\u85ac\\u5c40\\u7881\\u77f3\\u30f6\\u5cf0\\u767b\\u308a\\u53e3\\u5e97",
+      "address": "\\u7fbd\\u548b\\u5e02\\u5927\\u753a\\u30a48-8",
+      "phone_number": "0767-23-4368",
+      "fax": "0767-23-4367",
+      "is_available": "\\u25cb",
+      "location_lat": 36.9346346,
+      "location_lng": 136.8664611
+    },
+    {
+      "zip_code": "925-0027",
+      "name": "\\u9db4\\u591a\\u3042\\u304a\\u305e\\u3089\\u85ac\\u5c40",
+      "address": "\\u7fbd\\u548b\\u5e02\\u9db4\\u591a\\u753a\\u4e80\\u75304\\u756a5",
+      "phone_number": "0767-22-8931",
+      "fax": "0767-22-8131",
+      "is_available": "\\u25cb",
+      "location_lat": 36.8963053,
+      "location_lng": 136.7921755
+    },
+    {
+      "zip_code": "925-0036",
+      "name": "\\u306f\\u304f\\u3044\\u85ac\\u5c40",
+      "address": "\\u7fbd\\u548b\\u5e02\\u7684\\u5834\\u753a\\u7a32\\u8377\\u5c71\\u51fa\\u53e38-2",
+      "phone_number": "0767-22-9122",
+      "fax": "0767-22-9334",
+      "is_available": "\\u25cb",
+      "location_lat": 36.9004019,
+      "location_lng": 136.7810074
+    },
+    {
+      "zip_code": "925-0036",
+      "name": "\\u3055\\u304f\\u3089\\u85ac\\u5c40\\u7fbd\\u548b\\u7684\\u5834\\u5e97",
+      "address": "\\u7fbd\\u548b\\u5e02\\u7684\\u5834\\u753a\\u7a32\\u8377\\u5c71\\u51fa\\u53e310-1",
+      "phone_number": "0767-22-9383",
+      "fax": "0767-22-9384",
+      "is_available": "\\u25cb",
+      "location_lat": 36.9004919,
+      "location_lng": 136.7809688
+    },
+    {
+      "zip_code": "925-0049",
+      "name": "\\u7fbd\\u548b\\u83dc\\u306e\\u82b1\\u85ac\\u5c40",
+      "address": "\\u7fbd\\u548b\\u5e02\\u67f3\\u6a4b\\u753a\\u5802\\u753055-1",
+      "phone_number": "0767-22-7722",
+      "fax": "0767-22-7741",
+      "is_available": "\\u25cb",
+      "location_lat": 36.8925125,
+      "location_lng": 136.7865458
+    },
+    {
+      "zip_code": "925-0034",
+      "name": "\\u306a\\u304e\\u3055\\u85ac\\u5c40",
+      "address": "\\u7fbd\\u548b\\u5e02\\u65ed\\u753a\\u30a257\\u756a3",
+      "phone_number": "0767-22-0171",
+      "fax": "0767-22-0566",
+      "is_available": "\\u25cb",
+      "location_lat": 36.8963431,
+      "location_lng": 136.7792412
+    },
+    {
+      "zip_code": "925-0141",
+      "name": "\\u5fd7\\u8cc0\\u30d7\\u30ea\\u30b9\\u30b1\\u30a2\\u85ac\\u5c40",
+      "address": "\\u7fbd\\u548b\\u90e1\\u5fd7\\u8cc0\\u753a\\u5b57\\u9ad8\\u6d5c\\u753a\\u30af8-1",
+      "phone_number": "0767-32-1200",
+      "fax": "0767-32-3399",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0027378,
+      "location_lng": 136.77704
+    },
+    {
+      "zip_code": "925-0141",
+      "name": "\\u85ac\\u5c40\\u30de\\u30c4\\u30e2\\u30c8\\u30ad\\u30e8\\u30b7\\u9ad8\\u6d5c\\u5e97",
+      "address": "\\u7fbd\\u548b\\u90e1\\u5fd7\\u8cc0\\u753a\\u9ad8\\u6d5c\\u753a\\u30e469",
+      "phone_number": "0767-32-3181",
+      "fax": "0767-32-3182",
+      "is_available": "\\u25cb",
+      "location_lat": 37.00137,
+      "location_lng": 136.7762055
+    },
+    {
+      "zip_code": "925-0141",
+      "name": "\\u30af\\u30b9\\u30ea\\u306e\\u30a2\\u30aa\\u30ad\\u5fd7\\u8cc0\\u9ad8\\u6d5c\\u85ac\\u5c40",
+      "address": "\\u7fbd\\u548b\\u90e1\\u5fd7\\u8cc0\\u753a\\u9ad8\\u6d5c\\u753a\\u30e4\\u306e235\\u756a\\u57301",
+      "phone_number": "0767-32-3531",
+      "fax": "0767-32-3532",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0017497,
+      "location_lng": 136.7796309
+    },
+    {
+      "zip_code": "925-0447",
+      "name": "\\u7b20\\u539f\\u5065\\u62db\\u5802\\u85ac\\u5c40",
+      "address": "\\u7fbd\\u548b\\u90e1\\u5fd7\\u8cc0\\u753a\\u5bcc\\u6765\\u9818\\u5bb6\\u753a\\u753263\\u756a\\u57304",
+      "phone_number": "0767-42-2606",
+      "fax": "0767-42-2605",
+      "is_available": "\\u25cb",
+      "location_lat": 37.1418868,
+      "location_lng": 136.7261214
+    },
+    {
+      "zip_code": "929-1811",
+      "name": "\\u306a\\u304b\\u306e\\u3068\\u307e\\u3061\\u85ac\\u5c40",
+      "address": "\\u9e7f\\u5cf6\\u90e1\\u4e2d\\u80fd\\u767b\\u753a\\u4e8c\\u5bae\\u30ec169",
+      "phone_number": "0767-76-2727",
+      "fax": "0767-76-2729",
+      "is_available": "\\u25cb",
+      "location_lat": 36.9770608,
+      "location_lng": 136.927638
+    },
+    {
+      "zip_code": "929-1604",
+      "name": "\\u4e2d\\u5cf6\\u85ac\\u5c40",
+      "address": "\\u9e7f\\u5cf6\\u90e1\\u4e2d\\u80fd\\u767b\\u753a\\u80fd\\u767b\\u90e8\\u4e0b70-26",
+      "phone_number": "0767-72-2222",
+      "fax": "0767-72-3370",
+      "is_available": "\\u25cb",
+      "location_lat": 36.9590174,
+      "location_lng": 136.8608737
+    },
+    {
+      "zip_code": "929-1604",
+      "name": "\\u30a2\\u30eb\\u30d7\\u85ac\\u5c40\\u9e7f\\u897f\\u5e97",
+      "address": "\\u9e7f\\u5cf6\\u90e1\\u4e2d\\u80fd\\u767b\\u753a\\u80fd\\u767b\\u90e8\\u4e0b92-58",
+      "phone_number": "0767-72-3230",
+      "fax": "0767-72-3930",
+      "is_available": "\\u25cb",
+      "location_lat": 36.9631292,
+      "location_lng": 136.8675057
+    },
+    {
+      "zip_code": "929-1717",
+      "name": "\\u3088\\u3064\\u3070\\u85ac\\u5c40",
+      "address": "\\u9e7f\\u5cf6\\u90e1\\u4e2d\\u80fd\\u767b\\u753a\\u826f\\u5ddd\\u308b7-1",
+      "phone_number": "0767-74-2200",
+      "fax": "0767-74-2201",
+      "is_available": "\\u25cb",
+      "location_lat": 36.9788648,
+      "location_lng": 136.886046
+    },
+    {
+      "zip_code": "926-0171",
+      "name": "\\u548c\\u5009\\u3042\\u304a\\u305e\\u3089\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u77f3\\u5d0e\\u753a\\u30bf15-5",
+      "phone_number": "0767-62-8931",
+      "fax": "0767-62-8932",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0762166,
+      "location_lng": 136.9242157
+    },
+    {
+      "zip_code": "926-0171",
+      "name": "\\u30a6\\u30a8\\u30eb\\u30b7\\u30a2\\u85ac\\u5c40\\u4e03\\u5c3e\\u548c\\u5009\\u5e97",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u77f3\\u5d0e\\u753a\\u30e81\\u756a\\u57305",
+      "phone_number": "0767-62-1021",
+      "fax": "0767-62-1022",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0775496,
+      "location_lng": 136.9278288
+    },
+    {
+      "zip_code": "926-0824",
+      "name": "\\u5fb3\\u7530\\u3042\\u304a\\u305e\\u3089\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u4e0b\\u753a\\u30cb16-1",
+      "phone_number": "0767-57-0891",
+      "fax": "0767-57-0892",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0106929,
+      "location_lng": 136.9439852
+    },
+    {
+      "zip_code": "926-0811",
+      "name": "\\u30d1\\u30c8\\u30ea\\u30a2\\u4e2d\\u5c71\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u5fa1\\u7953\\u753a1\\u756a\\u5730\\u30d1\\u30c8\\u30ea\\u30a21\\u968e",
+      "phone_number": "0767-54-0739",
+      "fax": "0767-54-0738",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0434958,
+      "location_lng": 136.9633857
+    },
+    {
+      "zip_code": "926-0821",
+      "name": "\\u306a\\u306a\\u304a\\u8abf\\u5264\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u56fd\\u5206\\u753a\\u30e9\\u90e83-1",
+      "phone_number": "0767-52-2092",
+      "fax": "0767-52-8155",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0356284,
+      "location_lng": 136.9516205
+    },
+    {
+      "zip_code": "926-0821",
+      "name": "\\u85ac\\u5c40\\u30de\\u30c4\\u30e2\\u30c8\\u30ad\\u30e8\\u30b7\\u4e03\\u5c3e\\u897f\\u5e97",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u56fd\\u5206\\u753a\\u30e917",
+      "phone_number": "0767-52-8355",
+      "fax": "0767-52-8356",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0352477,
+      "location_lng": 136.9528816
+    },
+    {
+      "zip_code": "926-0821",
+      "name": "\\u30b9\\u30ae\\u85ac\\u5c40\\u3000\\u4e03\\u5c3e\\u5357\\u5e97",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u56fd\\u5206\\u753a\\u5b5040\\u756a\\u57301",
+      "phone_number": "0767-58-6351",
+      "fax": "0767-58-6352",
+      "is_available": "\\u25cb",
+      "location_lat": 37.034652,
+      "location_lng": 136.9559848
+    },
+    {
+      "zip_code": "926-0042",
+      "name": "\\u3042\\u304a\\u305e\\u3089\\u4e03\\u5c3e\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u4f5c\\u4e8b\\u753a58\\u756a\\u57302",
+      "phone_number": "0767-54-8931",
+      "fax": "0767-54-8988",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0456207,
+      "location_lng": 136.9679645
+    },
+    {
+      "zip_code": "926-0867",
+      "name": "\\u962a\\u795e\\u8abf\\u5264\\u85ac\\u5c40\\u3055\\u304f\\u3089\\u5e97",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u685c\\u753a78-1",
+      "phone_number": "0767-53-5583",
+      "fax": "0767-53-5584",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0511861,
+      "location_lng": 136.9629031
+    },
+    {
+      "zip_code": "926-0852",
+      "name": "\\u307f\\u305d\\u304e\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u5c0f\\u5cf6\\u753a\\u30cb50-7",
+      "phone_number": "0767-52-8280",
+      "fax": "0767-52-8281",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0484092,
+      "location_lng": 136.959035
+    },
+    {
+      "zip_code": "926-0852",
+      "name": "\\u30af\\u30b9\\u30ea\\u306e\\u30a2\\u30aa\\u30ad\\u5c0f\\u5cf6\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u5c0f\\u5cf6\\u753a\\u5927\\u958b\\u57301\\u756a78",
+      "phone_number": "0767-52-2701",
+      "fax": "0767-52-2721",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0532559,
+      "location_lng": 136.9569625
+    },
+    {
+      "zip_code": "926-0033",
+      "name": "\\u3042\\u3055\\u3072\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u5343\\u91ce\\u753a\\u306b5-2",
+      "phone_number": "0767-57-8155",
+      "fax": "0767-57-1293",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0164466,
+      "location_lng": 136.9525829
+    },
+    {
+      "zip_code": "926-0057",
+      "name": "\\uff08\\u6709\\uff09\\u702c\\u5ddd\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u935b\\u51b6\\u753a50",
+      "phone_number": "0767-53-0810",
+      "fax": "0767-53-3557",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0438483,
+      "location_lng": 136.9641261
+    },
+    {
+      "zip_code": "926-0816",
+      "name": "\\u80fd\\u767b\\u7dcf\\u5408\\u75c5\\u9662\\u524d\\u3042\\u304a\\u305e\\u3089\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u85e4\\u6a4b\\u753a\\u30a26-19",
+      "phone_number": "0767-52-9800",
+      "fax": "0767-52-9890",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0443494,
+      "location_lng": 136.9473651
+    },
+    {
+      "zip_code": "926-0816",
+      "name": "\\u65e5\\u672c\\u8abf\\u5264\\u3000\\u5c0f\\u4e38\\u5c71\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u85e4\\u6a4b\\u753a\\u30a2\\u90e86\\u756a19",
+      "phone_number": "0767-52-6240",
+      "fax": "0767-52-7818",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0450885,
+      "location_lng": 136.9465801
+    },
+    {
+      "zip_code": "926-0816",
+      "name": "\\u3075\\u3058\\u306f\\u3057\\u307e\\u3061\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u85e4\\u6a4b\\u753a\\u620a15-4",
+      "phone_number": "0767-57-5353",
+      "fax": "0767-57-5363",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0390071,
+      "location_lng": 136.9572343
+    },
+    {
+      "zip_code": "926-0017",
+      "name": "\\u30a2\\u30eb\\u30d7\\u85ac\\u5c40\\u4e03\\u5c3e\\u4e07\\u884c\\u5e97",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u4e07\\u884c2\\u4e01\\u76ee65\\u756a",
+      "phone_number": "0767-54-5202",
+      "fax": "0767-54-5203",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0458793,
+      "location_lng": 136.9891092
+    },
+    {
+      "zip_code": "926-0021",
+      "name": "\\u30a2\\u30eb\\u30d7\\u85ac\\u5c40\\u672c\\u5e9c\\u4e2d\\u5e97",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u672c\\u5e9c\\u4e2d\\u753a\\u30ef\\u90e85\\u756a\\u57306",
+      "phone_number": "0767-57-5719",
+      "fax": "0767-57-5729",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0358019,
+      "location_lng": 136.9698357
+    },
+    {
+      "zip_code": "926-0855",
+      "name": "\\u3055\\u304f\\u3089\\u85ac\\u5c40\\u4e03\\u5c3e\\u5e97",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u5c0f\\u4e38\\u5c71\\u53f03-96",
+      "phone_number": "0767-52-9383",
+      "fax": "0767-52-9381",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0444391,
+      "location_lng": 136.9486758
+    },
+    {
+      "zip_code": "929-2241",
+      "name": "\\u3042\\u304a\\u305e\\u3089\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u4e2d\\u5cf6\\u753a\\u6d5c\\u75301-34-1",
+      "phone_number": "0767-66-8888",
+      "fax": "0767-66-8889",
+      "is_available": "\\u25cb",
+      "location_lat": 37.1121345,
+      "location_lng": 136.8537239
+    },
+    {
+      "zip_code": "926-0046",
+      "name": "\\u795e\\u660e\\u3042\\u304a\\u305e\\u3089\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u795e\\u660e\\u753a\\u30ed17\\u756a\\u57304",
+      "phone_number": "0767-53-8931",
+      "fax": "0767-53-8932",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0424663,
+      "location_lng": 136.9657547
+    },
+    {
+      "zip_code": "926-0031",
+      "name": "\\u30d5\\u30e9\\u30b9\\u30b3\\u85ac\\u5c40",
+      "address": "\\u4e03\\u5c3e\\u5e02\\u53e4\\u5e9c\\u753a\\u30ea1-4",
+      "phone_number": "0767-58-5005",
+      "fax": "0767-57-5515",
+      "is_available": "\\u25cb",
+      "location_lat": 37.0273675,
+      "location_lng": 136.9630747
+    },
+    {
+      "zip_code": "927-0027",
+      "name": "\\u30a2\\u30a4\\u30f3\\u85ac\\u5c40\\u7a74\\u6c34\\u5e97",
+      "address": "\\u9cf3\\u73e0\\u90e1\\u7a74\\u6c34\\u753a\\u5b57\\u5ddd\\u5cf6\\u30bf1-1",
+      "phone_number": "0768-52-8311",
+      "fax": "0768-52-8312",
+      "is_available": "\\u25cb",
+      "location_lat": 37.2340526,
+      "location_lng": 136.9092958
+    },
+    {
+      "zip_code": "927-0027",
+      "name": "\\u30af\\u30b9\\u30ea\\u306e\\u30a2\\u30aa\\u30ad\\u7a74\\u6c34\\u5ddd\\u5cf6\\u85ac\\u5c40",
+      "address": "\\u9cf3\\u73e0\\u90e1\\u7a74\\u6c34\\u753a\\u5b57\\u5ddd\\u5cf6\\u30ec\\u306e24\\u756a\\u57301",
+      "phone_number": "0768-23-4125",
+      "fax": "0768-23-4126",
+      "is_available": "\\u25cb",
+      "location_lat": 37.2329047,
+      "location_lng": 136.9080263
+    },
+    {
+      "zip_code": "927-0027",
+      "name": "\\u85ac\\u5c40\\u30de\\u30c4\\u30e2\\u30c8\\u30ad\\u30e8\\u30b7\\u7a74\\u6c34\\u5e97",
+      "address": "\\u9cf3\\u73e0\\u90e1\\u7a74\\u6c34\\u753a\\u5b57\\u5ddd\\u5cf6\\u30ec30\\u756a1",
+      "phone_number": "0768-52-2252",
+      "fax": "0768-52-2253",
+      "is_available": "\\u25cb",
+      "location_lat": 37.2329047,
+      "location_lng": 136.9080263
+    },
+    {
+      "zip_code": "927-0027",
+      "name": "\\u7a74\\u6c34\\u305f\\u3093\\u307d\\u307d\\u85ac\\u5c40",
+      "address": "\\u9cf3\\u73e0\\u90e1\\u7a74\\u6c34\\u753a\\u5b57\\u5ddd\\u5cf6\\u30ec38\\u756a1",
+      "phone_number": "0768-52-3681",
+      "fax": "0768-52-3682",
+      "is_available": "\\u25cb",
+      "location_lat": 37.2338442,
+      "location_lng": 136.9083742
+    },
+    {
+      "zip_code": "927-0027",
+      "name": "\\u7a74\\u6c34\\u3042\\u304a\\u3070\\u85ac\\u5c40",
+      "address": "\\u9cf3\\u73e0\\u90e1\\u7a74\\u6c34\\u753a\\u5b57\\u5ddd\\u5cf6\\u308d3\\u756a\\u57302",
+      "phone_number": "0768-52-1413",
+      "fax": "0768-52-1425",
+      "is_available": "\\u25cb",
+      "location_lat": 37.2316442,
+      "location_lng": 136.9039323
+    },
+    {
+      "zip_code": "927-0432",
+      "name": "\\u5c0f\\u897f\\u85ac\\u5c40",
+      "address": "\\u9cf3\\u73e0\\u90e1\\u80fd\\u767b\\u753a\\u5b57\\u5b87\\u51fa\\u6d25\\u65b035",
+      "phone_number": "0768-62-1524",
+      "fax": "0768-62-0058",
+      "is_available": "\\u25cb",
+      "location_lat": 37.3079542,
+      "location_lng": 137.1483339
+    },
+    {
+      "zip_code": "927-0433",
+      "name": "\\u5b87\\u51fa\\u6d25\\u3089\\u3044\\u3075\\u85ac\\u5c40",
+      "address": "\\u9cf3\\u73e0\\u90e1\\u80fd\\u767b\\u753a\\u5b57\\u5b87\\u51fa\\u6d25\\u30bf70-8",
+      "phone_number": "0768-62-3376",
+      "fax": "0768-62-3386",
+      "is_available": "\\u25cb",
+      "location_lat": 37.309133,
+      "location_lng": 137.1475903
+    },
+    {
+      "zip_code": "927-0433",
+      "name": "\\u3055\\u304f\\u3089\\u85ac\\u5c40\\u80fd\\u767b\\u3046\\u3057\\u3064\\u5e97",
+      "address": "\\u9cf3\\u73e0\\u90e1\\u80fd\\u767b\\u753a\\u5b57\\u5b87\\u51fa\\u6d25\\u30bf98-1",
+      "phone_number": "0768-62-8811",
+      "fax": "0768-62-8812",
+      "is_available": "\\u25cb",
+      "location_lat": 37.3079556,
+      "location_lng": 137.1475325
+    },
+    {
+      "zip_code": "927-0433",
+      "name": "\\u305f\\u3066\\u304a\\u304b\\u85ac\\u5c40",
+      "address": "\\u9cf3\\u73e0\\u90e1\\u80fd\\u767b\\u753a\\u5b57\\u5b87\\u51fa\\u6d25\\u30e0\\u5b5711",
+      "phone_number": "0768-62-0044",
+      "fax": "0768-62-3862",
+      "is_available": "\\u25cb",
+      "location_lat": 37.3065113,
+      "location_lng": 137.1463547
+    },
+    {
+      "zip_code": "927-0553",
+      "name": "\\u304a\\u304e\\u85ac\\u5c40",
+      "address": "\\u9cf3\\u73e0\\u90e1\\u80fd\\u767b\\u753a\\u5c0f\\u672815\\u5b5723\\u756a6",
+      "phone_number": "0768-74-0075",
+      "fax": "0768-74-0076",
+      "is_available": "\\u25cb",
+      "location_lat": 37.2997233,
+      "location_lng": 137.2279116
+    },
+    {
+      "zip_code": "928-8585",
+      "name": "\\u8f2a\\u5cf6\\u3042\\u304a\\u305e\\u3089\\u85ac\\u5c40",
+      "address": "\\u8f2a\\u5cf6\\u5e02\\u5c71\\u5cb8\\u753a\\u306f27\\u756a\\u5730",
+      "phone_number": "0768-23-8008",
+      "fax": "0768-23-8778",
+      "is_available": "\\u25cb",
+      "location_lat": 37.3844322,
+      "location_lng": 136.9048656
+    },
+    {
+      "zip_code": "928-0022",
+      "name": "\\u65e5\\u672c\\u8abf\\u5264\\u3000\\u30ef\\u30a4\\u30d7\\u30e9\\u30b6\\u85ac\\u5c40",
+      "address": "\\u8f2a\\u5cf6\\u5e02\\u5b85\\u7530\\u753a48\\u756a\\u57301",
+      "phone_number": "0768-23-0772",
+      "fax": "0768-23-0774",
+      "is_available": "\\u25cb",
+      "location_lat": 37.3854182,
+      "location_lng": 136.9036849
+    },
+    {
+      "zip_code": "928-0022",
+      "name": "\\u30af\\u30b9\\u30ea\\u306e\\u30a2\\u30aa\\u30ad\\u8f2a\\u5cf6\\u85ac\\u5c40",
+      "address": "\\u8f2a\\u5cf6\\u5e02\\u5b85\\u7530\\u753a58\\u756a\\u5730",
+      "phone_number": "0768-23-0202",
+      "fax": "0768-23-0208",
+      "is_available": "\\u25cb",
+      "location_lat": 37.3865165,
+      "location_lng": 136.9020806
+    }
+  ]
+}
