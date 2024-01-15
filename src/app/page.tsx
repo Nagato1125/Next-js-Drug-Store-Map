@@ -1,15 +1,15 @@
 "use client";
 
-import Header from "./components/Header";
-import Footer from "./components/Footer";
 import MapProvider from "./components/MapProvider";
+import Sidebar from "./components/Sidebar";
 
 export default function Home() {
   return (
     <>
-      <Header></Header>
-      <MapProvider></MapProvider>
-      <Footer></Footer>
+      <div className="flex bg-gray-200">
+        <Sidebar></Sidebar>
+        <MapProvider></MapProvider>
+      </div>
     </>
   );
 }
