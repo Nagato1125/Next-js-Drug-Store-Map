@@ -27,7 +27,7 @@ const Map = () => {
   };
 
   const { data, error, isLoading } = useSWR(
-    process.env.NEXT_PUBLIC_STORES_DB,
+    "https://raw.githubusercontent.com/Nagato1125/stores-api/main/db.json",
     fetcher
   );
   console.log(data);
@@ -46,7 +46,7 @@ const Map = () => {
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      {data.map((store: Store) => (
+      {data.stores.map((store: Store) => (
         <ReafletMarker
           store={store}
           key={store.name}

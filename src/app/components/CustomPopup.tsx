@@ -13,7 +13,7 @@ const CustomPopup = ({ store }: PopupTextProps) => {
       <br />
       <span>{`電話: ${store.phone_number}`}</span>
       <br />
-      <span>{`開局状況: ${store.is_available}`}</span>
+      <span>OK</span>
       <br />
       <a
         href={`https://www.google.com/maps/search/?api=1&query=${store.name}`}
