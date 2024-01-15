@@ -39,6 +39,7 @@ const Map = () => {
       center={[36.8, 136.8]}
       zoom={9}
       style={{ height: "100vh", width: "100%" }}
+      zoomControl={false}
     >
       <ZoomControl position={"bottomright"}></ZoomControl>
       <TileLayer
