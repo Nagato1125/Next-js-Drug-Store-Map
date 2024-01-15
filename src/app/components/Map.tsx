@@ -27,7 +27,7 @@ const Map = () => {
   };
 
   const { data, error, isLoading } = useSWR(
-    "http://localhost:3001/stores",
+    process.env.NEXT_PUBLIC_STORES_DB,
     fetcher
   );
   console.log(data);
