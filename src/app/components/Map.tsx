@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { MapContainer, TileLayer } from "react-leaflet";
+import { MapContainer, TileLayer, ZoomControl } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import ReafletMarker from "./ReafletMarker";
 
@@ -40,6 +40,7 @@ const Map = () => {
       zoom={9}
       style={{ height: "100vh", width: "100%" }}
     >
+      <ZoomControl position={"bottomright"}></ZoomControl>
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
