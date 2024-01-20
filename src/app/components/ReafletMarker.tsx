@@ -9,7 +9,7 @@ type ReafletMarkerProps = {
 
 const ReafletMarker = ({ store }: ReafletMarkerProps) => {
   return (
-    <Marker position={[store.location_lat, store.location_lng]}>
+    <Marker position={[store.latitude, store.longitude]}>
       <CustomPopup store={store}></CustomPopup>
     </Marker>
   );

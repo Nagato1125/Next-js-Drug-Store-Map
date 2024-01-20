@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 import { MapContainer, TileLayer, ZoomControl } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import ReafletMarker from "./ReafletMarker";
@@ -26,10 +25,7 @@ const Map = () => {
     return axios.get(key).then(async (res) => await res.data);
   };
 
-  const { data, error, isLoading } = useSWR(
-    "https://raw.githubusercontent.com/Nagato1125/stores-api/main/db.json",
-    fetcher
-  );
+  const { data, error, isLoading } = useSWR("/api/stores", fetcher);
   console.log(data);
 
   if (isLoading) return "Loading...";
@@ -49,7 +45,7 @@ const Map = () => {
       {data.stores.map((store: Store) => (
         <ReafletMarker
           store={store}
-          key={store.name}
+          key={store.store_name}
           // positon={[store.location_lat, store.location_lng]}
           // popupText={store.name}
         />
