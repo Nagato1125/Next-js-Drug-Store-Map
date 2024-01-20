@@ -1,6 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { getBytes, ref } from "firebase/storage";
-import storage from "../../../firebase";
+import storage from "../../../storage";
 
 type ResponseData = {
   message: string;

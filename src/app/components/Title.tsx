@@ -1,6 +1,19 @@
+import axios from "axios";
 import React from "react";
+import useSWR from "swr";
 
 const Title = () => {
+  const fetcher = async (key: string) => {
+    // return fetch(key).then((res) => res.json());
+    return axios.get(key).then(async (res) => await res.data);
+  };
+
+  const { data, error, isLoading } = useSWR("/api/updateAt", fetcher);
+
+  if (isLoading) return "Loading...";
+
+  console.log(data["updateAt"]);
+
   return (
     <>
       <div className="flex flex-col justify-between">
@@ -9,7 +22,7 @@ const Title = () => {
           <h1 className=" font-bold text-2xl float-left ">
             能登地域 薬局開局状況
           </h1>
-          <p>2024年1月15日 16:00現在</p>
+          <p>更新日時: {data["updateAt"]}</p>
         </div>
         <div>
           <ul className=" text-sm m-3">
