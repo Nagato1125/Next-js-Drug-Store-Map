@@ -6,9 +6,13 @@ import Sidebar from "./components/Sidebar";
 export default function Home() {
   return (
     <>
-      <div className="flex bg-gray-200">
-        <Sidebar></Sidebar>
-        <MapProvider></MapProvider>
+      <div className="md:flex-row relative h-screen flex flex-col">
+        <div className="md:h-screen md:w-96">
+          <Sidebar></Sidebar>
+        </div>
+        <div className="w-full h-full">
+          <MapProvider></MapProvider>
+        </div>
       </div>
     </>
   );

@@ -34,7 +34,7 @@ const Map = () => {
     <MapContainer
       center={[36.8, 136.8]}
       zoom={9}
-      style={{ height: "100vh", width: "100%" }}
+      style={{ height: "100%", width: "100%" }}
       zoomControl={false}
     >
       <ZoomControl position={"bottomright"}></ZoomControl>

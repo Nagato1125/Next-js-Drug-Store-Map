@@ -4,7 +4,7 @@ import Title from "./Title";
 
 const Sidebar = () => {
   return (
-    <aside className="w-96 h-svh p-3 flex flex-col justify-between">
+    <aside className="p-3 flex flex-col md:justify-between">
       <Title />
       {/* <Notification /> */}
     </aside>
