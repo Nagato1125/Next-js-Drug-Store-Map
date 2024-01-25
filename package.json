@@ -10,6 +10,7 @@
     "json-server": "json-server --watch src/app/data/stores.json --port 3001"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.1.2",
     "axios": "^1.6.5",
     "firebase": "^10.7.2",
     "json-server": "^1.0.0-alpha.21",
